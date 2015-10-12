@@ -1,0 +1,131 @@
+body {
+	background: url("http://i-store.by//theme/i-store-2.0/img/header/header-bg.gif") repeat-x left top;
+}
+
+.header-container {
+	background: url("http://i-store.by/theme/i-store-2.0/img/header/header-bg.gif") repeat-x left top;
+}
+
+#lt-footer-decor {
+	background: #000 url("http://i-store.by//theme/i-store-2.0/img/footer/footer-decor-bg.gif") repeat-x left bottom;
+}
+
+.footer-container {
+	background: #000 url("http://i-store.by//theme/i-store-2.0/img/footer/footer-decor-bg.gif") repeat-x left bottom;
+}
+
+
+#lt-ind-centercol-top-infos {
+	border: 1px solid #e4e4e4;
+	color: #b2b2b2;
+}
+
+#lt-ind-centercol-top-info-1,
+#lt-ind-centercol-top-info-2,
+#lt-ind-centercol-top-info-3 {
+
+	background: #000;
+}
+
+#lt-ind-centercol-top-info-2,
+#lt-ind-centercol-top-info-3 {
+	border-left: 1px solid #e4e4e4;
+}
+
+#bottom-footer{
+	position: relative;
+	z-index: 5000;
+	background: #000000;
+	border-top: 1px solid #434343;
+}
+#bottom-footer .bottom-footer-inner{
+	margin: auto;
+	position: relative;
+	width: 1001px;
+	z-index: 200;
+}
+#bottom-footer .bottom-footer-inner .xhtml-decor-0, #bottom-footer .bottom-footer-inner .xhtml-decor-1000{
+	padding: 10px 0px 10px 30px;
+	color: #B2B2B2;
+	display: block;
+	float: left;
+
+}
+
+#lt-header {
+	position: relative;
+	z-index: 7000;
+
+}
+
+.header-container {
+	width: 1001px;
+	margin: auto;
+	height: 130px;
+}
+
+#lt-footer {
+	position: relative;
+	z-index: 5000;
+	margin-top: 20px;
+}
+
+#lt-footer-decor {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 100;
+}
+
+.footer-container {
+	width: 1001px;
+	margin: auto;
+	position: relative;
+	z-index: 200;
+}
+
+#lt-content {
+	width: 1001px;
+	margin: auto;
+}
+
+#lt-centercol {
+	position: relative;
+}
+
+#lt-ind-centercol-top-infos {
+	margin: 0px 29px;
+}
+
+#lt-ind-centercol-top-info-1,
+#lt-ind-centercol-top-info-2,
+#lt-ind-centercol-top-info-3 {
+
+	float: left;
+	height: 88px;
+	width: 313px;
+}
+
+#lt-inner-c {
+	padding: 18px 28px;
+}
+
+#lt-inner-lc-leftcol,
+#lt-inner-lc-centercol {
+
+	overflow: hidden;
+	float: left;
+	min-height: 1px;
+}
+
+#lt-inner-lc-leftcol {
+	margin: 18px 10px 18px 28px;
+	width: 166px;
+	overflow: hidden;
+}
+
+#lt-inner-lc-centercol {
+	margin: 18px 10px 18px 27px;
+	width: 760px;
+}
+
